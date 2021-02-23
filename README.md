@@ -23,3 +23,19 @@ X[:, 284:]
 
 ## Target
 The target can be found in [test|train]_participants.csv files, selecting the age column for regression problem.
+
+## Difference between axial slices of brains of 19 years old and 86 years old :
+**19 years old brain :**
+<p align="center">
+  <img src="https://github.com/Mehdi2402/images/blob/main/ML_9%20brains%2019_425_.png?raw=true" />
+</p>
+
+**86 years old brain :**
+<p align="center">
+  <img src="https://github.com/Mehdi2402/images/blob/main/ML_9%20brains%2086_464_.png?raw=true" />
+</p>
+
+## Relation between (Cerebrospinal fluid, Grey matter, White matter) and age
+<p align="center">
+  <img src="https://github.com/Mehdi2402/images/blob/main/ML_CSF_GM_WM.png?raw=true" />
+</p>
