@@ -39,3 +39,7 @@ The target can be found in [test|train]_participants.csv files, selecting the ag
 <p align="center">
   <img src="https://github.com/Mehdi2402/images/blob/main/ML_CSF_GM_WM.png?raw=true" />
 </p>
+## Results
+**RMSE : 6.55** (Using Elastic Net)
+
+*PS : Applying CNN on these images doesn't improve the RMSE.*
