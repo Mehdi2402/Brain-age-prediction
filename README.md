@@ -35,7 +35,7 @@ The target can be found in [test|train]_participants.csv files, selecting the ag
   <img src="https://github.com/Mehdi2402/images/blob/main/ML_9%20brains%2086_464_.png?raw=true" />
 </p>
 
-## Relation between (Cerebrospinal fluid, Grey matter, White matter) and age
+## Relation between (Grey matter, Cerebrospinal fluid, White matter) and age
 <p align="center">
   <img src="https://github.com/Mehdi2402/images/blob/main/ML_CSF_GM_WM.png?raw=true" />
 </p>
